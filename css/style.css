@@ -87,6 +87,54 @@ img{
     background-position: right;
 }
 
+.single-experience {
+    height: 300px;
+    width: 42%;
+    float: left;
+    margin: 0% 2%;
+    padding: 10px 20px;
+    border-radius: 5px;;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.experience-content{
+    height: 400px;
+    padding-top: 40px;
+}
+
+.wrapper h1 {
+    font-size: 40px;
+    padding-left: 22px;
+}
+
+.single-experience h2 {
+    font-size: 40px;
+}
+
+.single-experience h4 {
+    font-size: 19px;
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.single-experience p {
+    text-align: justify;
+}
+
+.exp-left {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #FF6347, #ffbca2);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+
+.exp-right {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #0008FF, #00F3FF);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+
     
 
 
