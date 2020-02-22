@@ -53,7 +53,7 @@ img{
     font-size: 55px;
 }
 
-.welcome-content h2 {
+.wrap h2 {
     font-size: 50px;
     margin: 20px 0px;
     font-weight: 900;
@@ -79,6 +79,12 @@ img{
     background: linear-gradient(90deg, #FF9A75, #FF6A4D);
     padding: 10px 35px;
     border-radius: 5px;
+}
+
+#dream-section {
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
     
